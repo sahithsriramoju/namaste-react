@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namaste-react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahithsriramoju/namaste-react.git"
+  },
+  "author": "Sahithi Sriramoju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahithsriramoju/namaste-react/issues"
+  },
+  "homepage": "https://github.com/sahithsriramoju/namaste-react#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}
